@@ -21,6 +21,9 @@ Expected Improvements
 -    Casing 
  Adjustments in accuracy
  Soldering components on soldering Board.
+ 
+ ![photo_2022-03-28_14-37-18](https://user-images.githubusercontent.com/56769901/160479811-5ad5eb20-04d4-4f6b-a735-e2c0622d77a8.jpg)
+
 
 ![photo_2022-03-28_14-37-47](https://user-images.githubusercontent.com/56769901/160478942-f1038606-6d46-46f5-870d-c77791aadd55.jpg)
 
@@ -41,9 +44,12 @@ Most - Moistured
 
 ![photo_2022-03-28_14-38-44](https://user-images.githubusercontent.com/56769901/160479271-4c510e4b-9e84-4c8e-9ea4-cc2f55ea08e2.jpg)
 
+![photo_2022-03-28_14-31-33](https://user-images.githubusercontent.com/56769901/160479885-31edc906-7bca-43c2-b966-ce757f2c1a32.jpg)
+
+
 # Codes 
 
-" int a =13;
+`` int a =13;
 int b =12;
 int c =11;
 int d =10;
@@ -98,6 +104,6 @@ else{
     digitalWrite(f,LOW);
     digitalWrite(g,HIGH); 
 }
-}""
+} ``
 
 
