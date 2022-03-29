@@ -30,7 +30,7 @@ Expected Improvements
 
 # Images.
 
-The three stages of the soil moisture level 
+The three stages of the soil moisture level.
 
 *DRY 
 
