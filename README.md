@@ -49,7 +49,7 @@ Most - Moistured
 
 # Codes 
 
-``int a =13;
+```int a =13;
 
 int b =12;
 
@@ -126,6 +126,6 @@ else{
     digitalWrite(f,LOW);
     digitalWrite(g,HIGH); 
 }
-}``
+}```
 
 
