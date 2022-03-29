@@ -10,16 +10,25 @@ This  project is to help farmers and  households to keep track of their moisture
 *Features of the project*
 
 Works with a battery (7v) and solar panels
+
  Digital counter of :-
+ 
       3 displays “Low /dry moisture level 
+      
       6 displays “ Moderate moisture level 
+      
       9 displays “ High moisture level
+      
 3. Buzzer for sound – This Bips when there is high moisture level
+
 4. Light weight.
 
-Expected Improvements 
+*Expected Improvements* 
+
 -    Casing 
+-    
  Adjustments in accuracy
+ 
  Soldering components on soldering Board.
  
  ![photo_2022-03-28_14-37-18](https://user-images.githubusercontent.com/56769901/160479811-5ad5eb20-04d4-4f6b-a735-e2c0622d77a8.jpg)
